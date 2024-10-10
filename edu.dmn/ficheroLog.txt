@@ -1,0 +1,6 @@
+Menu Gerencia
+Seleccion -> Crear un nuevo cliente.
+Menu Empleado
+Seleccion -> Añadir una nueva compra
+Menu Empleado
+Seleccion -> Calculo de ventas mensual
